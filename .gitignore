@@ -1,0 +1,56 @@
+# Office 文件（實際範例）
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.xlsm
+*.pptm
+
+# PDF 文件
+*.pdf
+
+# 圖片檔案
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+
+# 壓縮檔
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# 臨時檔案
+*.tmp
+*.temp
+~*
+*.swp
+*.swo
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+*.bak
+
+# 編輯器暫存檔
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node 相關（如果有用到）
+node_modules/
+npm-debug.log
+
+# Python 相關（如果有用到）
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
